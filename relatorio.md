@@ -9,3 +9,22 @@ Esta atividade foi desenvolvida como parte integrante da disciplina de **Sistema
 
 2.3 construindo a imagem container
 ![alt text](image.png)
+
+
+
+Criar o Projeto e a Aplicação (3.1 e 3.2)
+![alt text](image-1.png)
+
+
+
+modificando a pasta settings.py
+![alt text](image-2.png)
+
+
+
+fazendo as migrações
+![alt text](image-3.png)
+
+
+criando o superuser (username:admin password:123)
+![alt text](image-4.png)
