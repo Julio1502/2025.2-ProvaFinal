@@ -6,3 +6,6 @@
 Esta atividade foi desenvolvida como parte integrante da disciplina de **Sistemas Operacionais**, no curso de TADS, vinculado à **DIATINF** do **Campus IFRN NATAL CENTRAL**. 
 
 ## Relato das Atividades
+
+2.3 construindo a imagem container
+![alt text](image.png)
