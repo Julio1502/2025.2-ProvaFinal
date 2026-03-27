@@ -28,3 +28,14 @@ fazendo as migrações
 
 criando o superuser (username:admin password:123)
 ![alt text](image-4.png)
+
+
+criando a view basica
+![alt text](image-5.png)
+
+
+criando o arquivo urls.py e definição básica 
+![alt text](image-6.png)
+
+modificação do arquivo app/meu_projeto/urls.py
+![alt text](image-7.png)
